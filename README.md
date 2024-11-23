@@ -1,4 +1,4 @@
-## ***Lottery Ticket App***
+## ***Lottery Ticket Game***
 Welcome to the Lottery Ticket App! This app allows users to buy a lottery ticket and try their luck. The goal is to get the sum of three randomly generated numbers to equal 15. Users will continue purchasing tickets until they win.
 
 This app is built using React with Vite for fast development and builds.
